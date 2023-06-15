@@ -1,0 +1,17 @@
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\bin\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.vb
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+F:\Clases\6TM66\Programación Orientada a Objetos\CORTE 3\Clase 11_05_2023\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
